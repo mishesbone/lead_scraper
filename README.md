@@ -34,7 +34,7 @@ This Python script automates the process of generating real estate leads by:
 - Update the `search_query` variable with your search term (e.g., `"Real estate developers Germany new construction projects"`).
 - Execute the script:
   ```bash
-  python real_estate_scraper.py
+  python outreach.py
   ```
 
 ### 2. Steps Performed:
